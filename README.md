@@ -2,7 +2,7 @@
 
 A dark VS Code theme inspired by the color palette of [The Rust Programming Language](https://doc.rust-lang.org/book/) code snippets and [rusty.nvim](https://github.com/armannikoyan/rusty).
 
-`rusted` is an unofficial VS Code port with support for semantic highlighting and a wide range of programming languages.
+`rusted` supports semantic highlighting and a wide range of programming languages.
 
 ## Recommended settings
 
