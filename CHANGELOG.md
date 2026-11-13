@@ -78,3 +78,17 @@ Initial release of the theme.
 
 - Refined accent colors to reduce their brightness
 
+## [1.3.2]
+
+### Changed
+
+- Updated development guide
+
+- Removed reference to rusted as port from README
+
+- Updated github repo links in README and package.json
+
+### Fixed
+
+- Removed extra spaces from src/palette.json
+
