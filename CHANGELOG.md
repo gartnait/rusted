@@ -90,6 +90,8 @@ Initial release of the theme.
 
 - Compressed theme logo
 
+- Resized theme logo to 1024x1024 pixels
+
 ### Fixed
 
 - Removed extra spaces from src/palette.json
