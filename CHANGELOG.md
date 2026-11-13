@@ -88,6 +88,8 @@ Initial release of the theme.
 
 - Updated github repo links in README and package.json
 
+- Compressed theme logo
+
 ### Fixed
 
 - Removed extra spaces from src/palette.json
