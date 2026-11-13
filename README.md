@@ -54,7 +54,7 @@ Search: **rusted**
 
 ### Manual installation
 
-Download `.vsix` file from the latest release [here](https://github.com/sph1nxis/rusted/releases)
+Download `.vsix` file from the latest release [here](https://github.com/gartnait/rusted/releases)
 
 Then:
 1. Open the **Extensions** sidebar in VS Code: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd>
@@ -66,7 +66,7 @@ Then:
 Dependencies: Python 3, VSCE
 
 ```bash
-git clone https://github.com/sph1nxis/rusted
+git clone https://github.com/gartnait/rusted
 cd rusted
 python3 scripts/build.py
 vsce package
@@ -80,7 +80,7 @@ The `.vsix` file will be generated in the project root.
 
 This project is not affiliated with the Rust project or the rusty.nvim theme.
 
-`rusted` is the successor to [Tomorrow Night Rusty](https://github.com/sph1nxis/tomorrow-night-rusty), the original version of the theme. The project was renamed and republished under its current name while continuing development of the same theme.
+`rusted` is the successor to [Tomorrow Night Rusty](https://github.com/gartnait/tomorrow-night-rusty), the original version of the theme. The project was renamed and republished under its current name while continuing development of the same theme.
 
 ## Development
 
@@ -88,5 +88,5 @@ See [Development guide](docs/DEVELOPMENT.md) for information about the project s
 
 ## Feedback
 
-Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/sph1nxis/rusted/issues)
+Bug reports, suggestions, and pull requests are welcome: [issue tracker](https://github.com/gartnait/rusted/issues)
 

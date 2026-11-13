@@ -50,16 +50,16 @@
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/sph1nxis/rusted"
+        "url": "https://github.com/gartnait/rusted"
     },
 
-    "homepage": "https://github.com/sph1nxis/rusted",
+    "homepage": "https://github.com/gartnait/rusted",
 
     "bugs": {
-        "url": "https://github.com/sph1nxis/rusted/issues"
+        "url": "https://github.com/gartnait/rusted/issues"
     },
 
-    "qna": "https://github.com/sph1nxis/rusted/issues",
+    "qna": "https://github.com/gartnait/rusted/issues",
 
     "galleryBanner": {
         "color": "#17191b",
